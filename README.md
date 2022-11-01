@@ -46,7 +46,7 @@ The example script (main.py) along with two pdf files (/input_pdf) are saved in 
     - For each of the pdf file, if the page is identified as a borehole log by the classification model, an excel file with two sheets are created. In the first sheet of the excel file, metadata about the borehole such as borehole name, geographical coordinates, city, country etc are saved. In the second sheet, the extracted depth and description are saved.
     The flow of the code is as given below: 
     
-    ![Flow of the code](/docs/media/codeflow.jpg =300x250)
+    ![Flow of the code](/geo-borehole-decoder/docs/media/codeflow.jpg)
 
 ## How to (re)-train the classification model
 
