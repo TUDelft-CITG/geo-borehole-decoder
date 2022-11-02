@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/TUDelft-CITG/geo-borehole-decoder/blob/master/LICENSE.txt)
+
 ## Tool to digitize borehole logs 
 
 Borehole descriptions are detailed descriptions of the layer structure in the subsurface, and this data is often not available in a structured form. The goal of this project is to develop a tool that should ensure automatic data extraction. The tool uses a combination of artificial intelligence, natural language processing and optical character recognition technologies. This will make it possible to automatically convert the information from the PDF files into shareable, structured data. 
